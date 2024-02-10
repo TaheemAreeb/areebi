@@ -1,0 +1,106 @@
+body {
+  background-color: royalblue;
+  height: 30vh;
+}
+form{
+  background-color: white;
+  margin: 150px;
+  padding: 30px;
+  border-radius: 5px;
+}
+.hh{
+  font-weight: lighter;
+  color: gray;
+}
+span{
+  border-bottom: 5px solid royalblue;
+}
+input[type=text]{
+  width: 400px;
+  height: 40px;
+  border-radius: 1%;
+  border: 2px solid lightgray;
+  text-indent: 10px;
+  border-radius: 5px;
+}
+input[type=date]{
+  width: 400px;
+  height: 40px;
+  border-radius: 1%;
+  border: 2px solid lightgray;
+  text-indent: 10px;
+  font-weight: 100;
+  margin-left: 150px ;
+  border-radius: 5px;
+}
+.i{
+  margin-left: 490px;
+}
+input[type=email]{
+  width: 400px;
+  height: 40px;
+  border: 2px solid lightgray;
+  text-indent: 10px;
+  margin-left: 150px;
+  border-radius: 5px;
+}
+.io{
+  margin-left: 475px;
+}
+input[type=cell]{
+  width: 400px;
+  height: 40px;
+  border: 2px solid lightgray;
+  text-indent: 10px;
+  border-radius: 5px;
+
+}
+.ioi{
+  margin-left: 455px;
+}
+#btn{
+  width: 400px;
+  height: 46px;
+  border: 2px solid lightgray;
+  text-indent: 5px;
+  background-color: white;
+  margin-left: 150px;
+  color: gray;
+  border-radius: 5px;
+}
+.mg{
+  margin-left: 515px;
+}
+.dd{
+  margin-left: 160px;
+}
+.mj{
+  font-weight: 100;
+  margin-left: 5px;
+}
+.ar{
+  margin-left: 500px;
+}
+.a[type="text"]{
+  margin-left: 150px;
+}
+.t[type="text"]{
+  margin-left: 150px;
+}
+.p{
+  margin-left: 490px;
+}
+.aq{
+  margin-left: 485px;
+}
+#qm{
+  background-color: royalblue;
+  padding: 20px 100px 20px 100px;
+  color: white;
+  font-weight: 1000;
+  border-radius: 5px;
+  border: 2px solid royalblue;
+}
+#qm:hover{
+  border: 2px solid white;
+}
